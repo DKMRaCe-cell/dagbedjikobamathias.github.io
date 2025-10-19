@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dagbedjikobamathias.github.io/sitemap.xml
